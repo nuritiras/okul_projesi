@@ -1,7 +1,7 @@
 
 # 🏫 Okul Yönetim Sistemi (Flutter & Django)
 
-Bu proje, bir Computer Science eğitim materyali olarak geliştirilmiştir. Django tabanlı bir API ile Flutter mobil uygulamasının nasıl haberleştiğini gösterir.
+Bu proje, Django tabanlı bir API ile Flutter mobil uygulamasının nasıl haberleştiğini gösterir.
 
 ## 🚀 Özellikler
 - **Django REST Framework** ile tam CRUD desteği.
@@ -19,4 +19,3 @@ cd backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-
